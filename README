@@ -1,0 +1,3 @@
+Program generates a signal with a specified number of random sinusoidal components and performs a fourier transform
+to get the frequency domain function. Plots compare the spectrum (blue) to the sinusoidal components (red), the amplitude
+of the component is proportional to the length of the red line in the negative vertical direction.
